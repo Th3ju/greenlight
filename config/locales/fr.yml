@@ -412,7 +412,7 @@ fr:
       title: Inviter utilisateur
     login:
       or: ou
-      with: "Connexion via %{provider}"
+      with: "Connexion Personnels DR13"
       forgot_password: "Mot de passe oublié ?"
     preupload:
       change: Remplacer présentation
